@@ -1,4 +1,4 @@
-AI Finance Platform
+AI SaaS Platform
 
 An AI-driven financial SaaS platform that provides real-time insights, portfolio analysis, and investment recommendations through a clean, scalable, and secure web application.
 
@@ -45,7 +45,7 @@ ai-finance-platform/
 
 🔧 Getting Started
 1. Clone the Repository
-git clone https://github.com/piyush-eon/ai-finance-platform.git
+git clone https://github.com/Saptarshi04/AI-SaaS-Platform.git
 cd ai-finance-platform
 
 2. Install Dependencies
